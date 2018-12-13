@@ -1,5 +1,7 @@
 # LoggingCPP
 
+Designing a Logging framework using Observer Design Pattern :
+
 Console Platform:   It prints the message on console.
 
 File Platform:   It writes the message in attached txt file.
